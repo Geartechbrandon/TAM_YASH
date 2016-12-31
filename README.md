@@ -1,2 +1,2 @@
 # TAM_YASH
-New spool holder for TypeAMachines Series1. This is an attempt to improve the update proocess as we refine the model for optimized printing.
+The last version of the spool holder designed to fit the Series 1 metal frames. This project will be left online for those that need/want to access my work and designs.
